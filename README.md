@@ -5,7 +5,7 @@ in the api call.<br>
 * Install the Flask package 
 * Install the Pilow package
 * Run the commannd in the terminal ```build.sh```
-* Run the command in the terminal  ```run.sh``
+* Run the command in the terminal  ```run.sh```
 # API DOCUMENTATION
 The container expects an HTTP POST request to /generate_image, with parameters resembling the following:
 * width: the width of the image array in pixels (integer)
